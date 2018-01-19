@@ -1,0 +1,19 @@
+{
+    "name": "serjika/web_edu",
+    "description": "web_edu links",
+    "type": "project",
+    "require": {
+        "components/jquery": "^1"
+    },
+    "license": "commercial",
+    "authors": [
+        {
+            "name": "SERJika",
+            "email": "ser_jika@malil.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
